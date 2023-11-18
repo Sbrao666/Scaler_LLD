@@ -1,4 +1,4 @@
-package Concurrency1.AdditionUsingThread;
+package Concurrency.Concurrency1.AdditionUsingThread;
 
 public class Adder implements Runnable{
 

@@ -1,4 +1,4 @@
-package Callables.Problem3_MergeSort;
+package Concurrency.Callables.Problem3_MergeSort;
 
 import java.util.Arrays;
 import java.util.concurrent.Callable;

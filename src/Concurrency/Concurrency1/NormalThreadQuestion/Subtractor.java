@@ -1,4 +1,4 @@
-package Concurrency1.NormalThreadQuestion;
+package Concurrency.Concurrency1.NormalThreadQuestion;
 
 public class Subtractor implements Runnable{
 

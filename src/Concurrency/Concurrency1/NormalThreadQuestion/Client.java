@@ -1,6 +1,6 @@
-package Concurrency1.NormalThreadQuestion;
+package Concurrency.Concurrency1.NormalThreadQuestion;
 
-import Concurrency1.ScalerThread;
+import Concurrency.Concurrency1.ScalerThread;
 
 public class Client {
     public static void main(String[] args) {

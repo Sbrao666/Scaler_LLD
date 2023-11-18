@@ -1,6 +1,6 @@
-package Concurrency1.MultiplicationTableUsingThread;
+package Concurrency.Concurrency1.MultiplicationTableUsingThread;
 
-import Concurrency1.ScalerThread;
+import Concurrency.Concurrency1.ScalerThread;
 
 import java.util.Scanner;
 

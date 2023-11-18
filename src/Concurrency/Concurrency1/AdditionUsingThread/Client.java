@@ -1,6 +1,6 @@
-package Concurrency1.AdditionUsingThread;
+package Concurrency.Concurrency1.AdditionUsingThread;
 
-import Concurrency1.ScalerThread;
+import Concurrency.Concurrency1.ScalerThread;
 
 import java.util.Scanner;
 

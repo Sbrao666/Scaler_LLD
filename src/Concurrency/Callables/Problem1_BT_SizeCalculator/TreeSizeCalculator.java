@@ -1,4 +1,4 @@
-package Callables.Problem1_BT_SizeCalculator;
+package Concurrency.Callables.Problem1_BT_SizeCalculator;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;

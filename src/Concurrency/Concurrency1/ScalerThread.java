@@ -1,6 +1,5 @@
-package Concurrency1;
+package Concurrency.Concurrency1;
 
-import java.lang.reflect.Field;
 import java.util.HashMap;
 
 public class ScalerThread extends Thread {

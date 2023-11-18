@@ -1,4 +1,4 @@
-package Concurrency1.MultiplicationTableUsingThread;
+package Concurrency.Concurrency1.MultiplicationTableUsingThread;
 
 public class TableCreator implements Runnable {
     int n;
